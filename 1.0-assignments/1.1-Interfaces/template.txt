@@ -1,0 +1,11 @@
+//[»] Constant variable members |-----------|*|-----------|
+        
+//[»] Private backing variable members |-----------|*|-----------|
+
+//[»] Property members |-----------|*|-----------|
+        
+//[»] Constructor |-----------|*|-----------|
+        
+//[»] Primary method members |-----------|*|-----------|
+
+//[»] Secondary method members |-----------|*|-----------|

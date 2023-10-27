@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\tibov\Documents\1.0-Odisee\2.1-Lessen-Y2Q1\Programmeertechnieken_&amp;_Testen\Github_Classroom-repo\2324-oefeningen-interfaces-TVeegy\TextEncrypter\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\tibov\Documents\1.0-Odisee\2.1-Lessen-Y2Q1\Programmeertechnieken_&amp;_Testen\Github_Classroom-repo\2324-oefeningen-interfaces-TVeegy\TextEncrypter\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.47.0" />
+  </ItemGroup>
+
+</Project>
